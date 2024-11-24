@@ -1,0 +1,81 @@
+Here’s a curated list of free APIs across various domains that you can use for real-world projects. These APIs often have free tiers or open access for developers.
+
+1. Movies & TV Shows
+TMDb API (The Movie Database)
+Access movie, TV show, and actor data. Free with API key registration.
+
+Open Movie Database (OMDb)
+Get movie and TV show information, ratings, and more. Free for basic usage with an API key.
+
+2. Weather
+OpenWeatherMap
+Offers weather forecasts, historical data, and air pollution levels. Free tier available.
+
+WeatherAPI
+Provides weather forecasts and historical data with a free tier.
+
+3. News
+NewsAPI
+Fetch headlines, articles, and sources from global news sites. Free for non-commercial use.
+
+The Guardian API
+Access The Guardian's articles and data for free with registration.
+
+4. Finance & Cryptocurrency
+CoinGecko API
+Free cryptocurrency market data, including prices, market caps, and trends.
+
+Alpha Vantage
+Financial data and stock market trends. Free API key available.
+
+5. Sports
+Football-Data.org
+Access football data, including fixtures, results, and standings for various leagues.
+
+Sportradar API
+Provides comprehensive sports data for multiple sports (limited free access).
+
+6. Open Data
+OpenStreetMap
+Free access to location and map data.
+
+Data.gov
+U.S. government datasets on various topics, including health, climate, and transportation.
+
+7. Social Media & Entertainment
+YouTube Data API
+Access video details, comments, and analytics from YouTube. Free tier available.
+
+Spotify Web API
+Fetch music, playlists, and artist information (requires authentication).
+
+8. Random & Fun
+PokeAPI
+Data about Pokémon, including stats, abilities, and types.
+
+The Cat API
+Random cat images and information. Free with an API key.
+
+Bored API
+Suggests activities based on user preferences. No key required.
+
+9. Health & Nutrition
+Edamam
+Nutrition and recipe data. Free tier available.
+
+OpenFDA
+Public health data from the FDA, including drug and food recalls.
+
+10. Education
+OpenLibrary API
+Access information about books, authors, and covers.
+
+Quotes API
+Random quotes for inspiration and motivation. Free tier available.
+
+11. Machine Learning & AI
+OpenAI API
+Access GPT-based models (free trial available).
+
+DeepAI
+Provides various AI services like text generation, image recognition, and more.
